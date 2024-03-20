@@ -1,0 +1,21 @@
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.planet-img {
+  width: 100%;
+  max-width: 400px;
+}
+.planet-heading {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: white;
+}
+.planet-description {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: #f1f5f9;
+  text-align: center;
+}
